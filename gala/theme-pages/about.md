@@ -1,22 +1,22 @@
 ---
 schemaId: urn:gala:schema:content-frontmatter:2.0.0
-schemaVersion: "2.0.0"
-id: 00000000-0000-7000-8000-000000000011
+schemaVersion: 2.0.0
+id: 01a1f061-2b8f-799d-95cb-5fc6ad7e34b3
 kind: page
 title: About
 language: en-US
 authors:
-  - 00000000-0000-7000-8000-000000000002
+- 01a1f061-2b8f-7bbd-aa81-388605f00509
 tags: []
 status: published
-createdAt: "2026-09-27T00:00:00.000Z"
-publishedAt: "2026-09-27T00:00:00.000Z"
+createdAt: '2026-11-18T20:37:42.415Z'
+publishedAt: '2026-11-18T20:37:42.415Z'
 slug: about
 redirects: []
 extensions: {}
 ---
 
-PLACEHOLDER-SITE-TITLE is written by PLACEHOLDER-AUTHOR-NAME.
+Cameron McKenzie is written by Cameron McKenzie.
 
 This publication is a place for considered work: finished essays, useful field
 notes, and the ideas that become clearer through writing.
